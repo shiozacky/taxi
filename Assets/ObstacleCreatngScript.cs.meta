@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d14799bc5c5902d4aa5d1f6ada11849c
+timeCreated: 1494328491
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Obstacle: {fileID: 196610, guid: 18c54161c106d2e439c30e245797064b, type: 2}
+  - Obstacle2: {fileID: 186168, guid: f76821051da0dd44590fcd5eae5c170c, type: 2}
+  - Obstacle3: {fileID: 145220, guid: e2bfa1821c1e7eb44945caf1b2f97ab9, type: 2}
+  - Obstacle4: {fileID: 172876, guid: e086c360d67ae40499a61aadcbee1879, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
